@@ -1,3 +1,4 @@
+console.log("index.js ok !!!")
 import {
   fetchAndDisplayLists,
   initAddListButton,

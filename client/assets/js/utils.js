@@ -1,4 +1,7 @@
+console.log("📄 ~ utils.js ok!!!")
+
 import "animate.css"; // Grâce à notre bundler, on peut "charger" le CSS depuis un fichier JS
+
 
 import { toast } from "bulma-toast";
 import JSConfetti from "js-confetti";

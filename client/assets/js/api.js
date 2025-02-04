@@ -1,3 +1,5 @@
+console.log("📄 ~ api.js ok!!!")
+
 import { apiBaseUrl } from "./config.js";
 
 export async function getLists() {
